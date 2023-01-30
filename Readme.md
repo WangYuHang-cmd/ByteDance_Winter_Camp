@@ -545,3 +545,22 @@ func main() {
    fmt.Println("Henry")
 }
 ```
+
+
+
+
+
+#### 项目一：猜数字
+
+简单，略
+
+#### 项目二：在线词典
+
+1. 复制`https://fanyi.caiyunapp.com/#/`控制台抓取的dict文件的cURL(bash)
+
+2. 粘贴进`https://curlconverter.com/go/`自动转换成Go文件
+
+3. 复制dict响应头在`https://oktools.net/json2go`中获得对应结构体
+4. 利用Go结构体的特性分别将要查的单词序列化发送后反序列化输出即可
+
+运行：`go run OnlineDic/OnlineDic.go [word] `
