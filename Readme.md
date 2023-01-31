@@ -571,18 +571,18 @@ func main() {
 
 并在windows环境下截至netcat使用nc命令
 
-![001120](E:\MyProject\ByteDance_Winter_Camp\img\001120.jpg)
+![001120](img\001120.jpg)
 
 <hr>
 
-![010139](E:\MyProject\ByteDance_Winter_Camp\img\010139.jpg)
+![010139](img\010139.jpg)
 
 <hr>
 
-![image-20230201014522554](E:\MyProject\ByteDance_Winter_Camp\img\014532.jpg)
+![image-20230201014522554](img\014532.jpg)
 
 <hr>
 
-![image-20230201015716251](C:\Users\Henry\AppData\Roaming\Typora\typora-user-images\image-20230201015716251.png)
+![image-20230201015716251](img\020214.jpg)
 
 最终完工
