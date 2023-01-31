@@ -564,3 +564,25 @@ func main() {
 4. 利用Go结构体的特性分别将要查的单词序列化发送后反序列化输出即可
 
 运行：`go run OnlineDic/OnlineDic.go [word] `
+
+#### 项目三：SOCKET5代理服务器
+
+运行`go run SCK5.go `
+
+并在windows环境下截至netcat使用nc命令
+
+![001120](E:\MyProject\ByteDance_Winter_Camp\img\001120.jpg)
+
+<hr>
+
+![010139](E:\MyProject\ByteDance_Winter_Camp\img\010139.jpg)
+
+<hr>
+
+![image-20230201014522554](E:\MyProject\ByteDance_Winter_Camp\img\014532.jpg)
+
+<hr>
+
+![image-20230201015716251](C:\Users\Henry\AppData\Roaming\Typora\typora-user-images\image-20230201015716251.png)
+
+最终完工
